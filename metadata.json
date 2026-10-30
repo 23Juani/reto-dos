@@ -1,0 +1,6 @@
+{
+  "name": "NeuroTwin 3D: Explorador EEG & BCI con Gemma 4",
+  "description": "Visualizador 3D interactivo y osciloscopio en tiempo real de señales cerebrales OpenBCI con traductor BCI asistido por Google Gemma 4 para NeuroTech UMSA 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
